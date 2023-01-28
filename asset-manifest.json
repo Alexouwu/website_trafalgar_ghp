@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/website_trafalgar_ghp/static/css/main.77fb6fed.css",
+    "main.js": "/website_trafalgar_ghp/static/js/main.ade8e38b.js",
+    "static/media/Cell-card.png": "/website_trafalgar_ghp/static/media/Cell-card.37b353b299d98678893c.png",
+    "static/media/fondomano.png": "/website_trafalgar_ghp/static/media/fondomano.16e78c0da5a724de8438.png",
+    "static/media/Hand.png": "/website_trafalgar_ghp/static/media/Hand.c063500b419c0715db53.png",
+    "static/media/banner3_payment.png": "/website_trafalgar_ghp/static/media/banner3_payment.8cac8e335164ca773729.png",
+    "static/media/creditcardstrf.png": "/website_trafalgar_ghp/static/media/creditcardstrf.a5f25a7c3ad621c834c7.png",
+    "static/media/Card.png": "/website_trafalgar_ghp/static/media/Card.c80f558100de709bc056.png",
+    "static/media/InicioSesion.png": "/website_trafalgar_ghp/static/media/InicioSesion.8e781a914af697c98081.png",
+    "static/media/new_phones.png": "/website_trafalgar_ghp/static/media/new_phones.ef51f2058416f837ae61.png",
+    "static/media/logos-color-13.png": "/website_trafalgar_ghp/static/media/logos-color-13.7717552d9b553295b5b3.png",
+    "static/media/logos-gray-23.png": "/website_trafalgar_ghp/static/media/logos-gray-23.3576a4865f9e81cdccf3.png",
+    "static/media/Phone.png": "/website_trafalgar_ghp/static/media/Phone.39b52b1049b2a8e6be1f.png",
+    "static/media/movil-trf-cards2.png": "/website_trafalgar_ghp/static/media/movil-trf-cards2.bde3bf484c8b3f131948.png",
+    "static/media/PhoneHome.png": "/website_trafalgar_ghp/static/media/PhoneHome.6e91820d49806754fbfe.png",
+    "static/media/PhoneHomeCropped.png": "/website_trafalgar_ghp/static/media/PhoneHomeCropped.9b039ee3541c1310d27c.png",
+    "static/media/STATS_NOTIF_2-18.png": "/website_trafalgar_ghp/static/media/STATS_NOTIF_2-18.27820e63dc6ccff58843.png",
+    "static/media/chartRecurso.png": "/website_trafalgar_ghp/static/media/chartRecurso.dff47706d1cc029ebfcd.png",
+    "static/media/whoopsRecurso.png": "/website_trafalgar_ghp/static/media/whoopsRecurso.e856988b855f1d3947c4.png",
+    "static/media/qaimage.png": "/website_trafalgar_ghp/static/media/qaimage.cfa4f1dd9751730debe8.png",
+    "static/media/congrats.png": "/website_trafalgar_ghp/static/media/congrats.d68c6938eb7376469473.png",
+    "static/media/atm.png": "/website_trafalgar_ghp/static/media/atm.eef3574bb3291dd5b8eb.png",
+    "static/media/send card.png": "/website_trafalgar_ghp/static/media/send card.cba13016a48be794ce2b.png",
+    "static/media/id.png": "/website_trafalgar_ghp/static/media/id.653e7f3e2e73c5e65023.png",
+    "index.html": "/website_trafalgar_ghp/index.html",
+    "main.77fb6fed.css.map": "/website_trafalgar_ghp/static/css/main.77fb6fed.css.map",
+    "main.ade8e38b.js.map": "/website_trafalgar_ghp/static/js/main.ade8e38b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fb6fed.css",
+    "static/js/main.ade8e38b.js"
+  ]
+}
