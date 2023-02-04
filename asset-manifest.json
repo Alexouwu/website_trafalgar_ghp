@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website_trafalgar_ghp/static/css/main.77fb6fed.css",
-    "main.js": "/website_trafalgar_ghp/static/js/main.ade8e38b.js",
+    "main.js": "/website_trafalgar_ghp/static/js/main.00b14345.js",
     "static/media/Cell-card.png": "/website_trafalgar_ghp/static/media/Cell-card.37b353b299d98678893c.png",
     "static/media/fondomano.png": "/website_trafalgar_ghp/static/media/fondomano.16e78c0da5a724de8438.png",
     "static/media/Hand.png": "/website_trafalgar_ghp/static/media/Hand.c063500b419c0715db53.png",
@@ -26,10 +26,10 @@
     "static/media/id.png": "/website_trafalgar_ghp/static/media/id.653e7f3e2e73c5e65023.png",
     "index.html": "/website_trafalgar_ghp/index.html",
     "main.77fb6fed.css.map": "/website_trafalgar_ghp/static/css/main.77fb6fed.css.map",
-    "main.ade8e38b.js.map": "/website_trafalgar_ghp/static/js/main.ade8e38b.js.map"
+    "main.00b14345.js.map": "/website_trafalgar_ghp/static/js/main.00b14345.js.map"
   },
   "entrypoints": [
     "static/css/main.77fb6fed.css",
-    "static/js/main.ade8e38b.js"
+    "static/js/main.00b14345.js"
   ]
 }
